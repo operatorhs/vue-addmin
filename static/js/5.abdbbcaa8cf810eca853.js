@@ -1,0 +1,2 @@
+webpackJsonp([5],{GvT2:function(e,t){},NEzt:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var a=n("C7Lr")({data:function(){return{}}},r,!1,function(e){n("GvT2")},"data-v-2a92c2b6",null);t.default=a.exports}});
+//# sourceMappingURL=5.abdbbcaa8cf810eca853.js.map

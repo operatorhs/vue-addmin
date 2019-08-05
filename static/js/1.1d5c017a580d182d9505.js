@@ -1,0 +1,2 @@
+webpackJsonp([1],{ti6k:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h1",[this._v("商标注册")])])}]};var i=n("C7Lr")({data:function(){return{}}},r,!1,function(t){n("zSBO")},"data-v-60ca0c7e",null);e.default=i.exports},zSBO:function(t,e){}});
+//# sourceMappingURL=1.1d5c017a580d182d9505.js.map

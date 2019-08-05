@@ -1,0 +1,2 @@
+webpackJsonp([2],{"+L4n":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h1",[this._v("用户管理")])])}]};var u=n("C7Lr")({data:function(){return{}}},r,!1,function(t){n("uodu")},"data-v-552a2caf",null);e.default=u.exports},uodu:function(t,e){}});
+//# sourceMappingURL=2.106ee73bd6dce51017fc.js.map

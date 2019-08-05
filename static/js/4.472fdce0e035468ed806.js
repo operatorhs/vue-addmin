@@ -1,0 +1,2 @@
+webpackJsonp([4],{"15YX":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("编辑素材")])])}]};var i=n("C7Lr")({data:function(){return{}}},r,!1,function(e){n("SgFD")},"data-v-3bd2e3e4",null);t.default=i.exports},SgFD:function(e,t){}});
+//# sourceMappingURL=4.472fdce0e035468ed806.js.map
